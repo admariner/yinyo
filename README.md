@@ -1,3 +1,11 @@
+
+⚠️  **This project has been archived because we are not actively maintaining nor using it.**
+It hasn't seen activity since 2019 and has known security vulnerabilities that have not been addressed.
+If you'd like to champion this project (fork it, maintain it, drive it forward),
+get in touch with us at [contact@oaf.org.au](mailto:contact@oaf.org.au) so we can add a link here to active forks.
+
+---
+
 <img width="100" heigth="100" src="https://yinyo.io/logo.svg">
 
 # Yinyo: A wonderfully simple API driven service to reliably execute many long running scrapers in a super scaleable way
