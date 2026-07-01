@@ -1,6 +1,6 @@
 
-⚠️  **This project has been archived because we are not actively maintaining nor using it.**
-It hasn't seen activity since 2019 and has known security vulnerabilities that have not been addressed.
+⚠️  **This repository is archived and no longer maintained.**
+As of 2026-07-01 it is read-only. We are not actively maintaining nor using it, it hasn't seen activity since 2019, and it has known security vulnerabilities that have not been addressed. There is no successor project.
 If you'd like to champion this project (fork it, maintain it, drive it forward),
 get in touch with us at [contact@oaf.org.au](mailto:contact@oaf.org.au) so we can add a link here to active forks.
 
